@@ -2,6 +2,8 @@
 This sample OpenUI5 web app demonstrated custom UI controls that act as wrapper for charting libraries.
 It shows you how to integrate simple charts into OpenUI5 apps.
 
+> **Note:** This repository is for illustration purposes only, if you are looking for a ChartJS implementation to be used in your application projects take a look at https://github.com/StErMi/openui5-chartjs/ by @StErMi!
+
 ## Installation
 Clone this repository locally, open up the command line/terminal in the root folder and execute the following command to download required dependencies:
 ```
