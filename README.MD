@@ -1,3 +1,14 @@
+# End of Life
+
+This project has been identified as obsolete, and SAP will remove it from our samples repository soon.
+
+**The last day for this project is:  July 1, 2018**
+
+All existing users are encouraged to make a copy of this project before that date.
+
+------
+
+
 # OpenUI5 Custom Controls for charting
 This sample OpenUI5 Web app demonstrates how to build custom UI controls that act as wrapper for thirdparty libraries.
 It shows you how to integrate simple charts drawn by ChartJS into OpenUI5 apps.
